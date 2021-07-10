@@ -1,0 +1,43 @@
+If you worked alone, state that you worked alone. Don't forget to include your name.
+If you worked with a partner, include both your names. You should describe HOW you worked together (did you pair program? meet regularly in Shaw? etc) and approximately what percentage of the typing was completed by each person. Remember, you must code each part together if you are turning the code in together. It is NOT okay to split the work up (where each person codes two search algorithms separately). Each person should write their own Readme.
+Also include at least two paragraphs, discussing:
+The first paragraph should discuss which question in this project helped you learn the most (about AI, about Python, or even about yourself).
+The rest of your README should describe any challenges or a-ha moments encountered while developing your code. Mention what kinds of mistakes you made, additional resources used, etc. for this programming project.
+At the bottom of your Readme, copy and paste the output from running the autograder on your project. If necessary, you can copy in two separate sections - one for Python 2 and one for Python 3 - but please be clear which tests require Python 2 to pass and which tests require Python 3.
+
+Sanskriti Timseena :)
+I worked alone.
+
+The first update function was the hardest for me in this project. I had the formula I saw in Q learning videos in there. It looked
+correct to me but wouldn't pass the first test. I watched another video that showed me how to do it this way. After the
+first one was done, I got the confidence to do the rest, even though they were also a struggle. I missed some but it's okay.
+I'm glad I'm using list comprehension a lot more now after this class. I want to learn more python tools like that.
+
+I found out that I spend too much time studying before I start coding. Even after I started I still had to go back and
+watch videos, so I wish I had started coding sooner. In the begining, I was using a dictionary of Counters to store q values
+So I had one dictionary for all qvalues, and then a counter for each state, and actions were keys in those counters. that got too
+complicated, and when I used tuples of state,action and only one counter, the work became much easier. I forget that tuples can be
+used so many different ways.
+
+python3 for 2 and 4
+python2 for 1,2,4
+
+Provisional grades
+==================
+Question q1: 0/5
+Question q2: 3/3
+Question q3: 0/1
+Question q4: 1/1
+Question q5: 0/3
+------------------
+Total: 4/13
+
+Provisional grades
+==================
+Question q1: 5/5
+Question q2: 3/3
+Question q3: 0/1
+Question q4: 1/1
+Question q5: 0/3
+------------------
+Total: 9/13
